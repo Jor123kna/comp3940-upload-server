@@ -1,0 +1,4 @@
+*.class
+images/
+.vscode/
+.idea/
